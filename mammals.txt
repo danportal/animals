@@ -2,4 +2,4 @@ leopard
 elephant 
 lion
 seal
-croc
+springbok
